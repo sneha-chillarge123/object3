@@ -1,0 +1,7 @@
+body{
+    background-image: url("background.jpg");
+}
+
+#btn1{
+    float:right;
+}
